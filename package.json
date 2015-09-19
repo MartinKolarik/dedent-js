@@ -1,7 +1,7 @@
 {
 	"name": "dedent-js",
 	"description": "Remove indentation from multiline strings",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"homepage": "https://github.com/MartinKolarik/dedent-js/",
 	"github": "https://github.com/MartinKolarik/dedent-js/",
 	"main": "lib/index.js",
