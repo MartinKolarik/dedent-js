@@ -11,7 +11,7 @@ $ npm install dedent-js
 ## Usage
 
 ```js
-// dedent can be also used as a function
+// Dedent can be also used as a function.
 expect(dedent`Line #1
 	Line #2
 	Line #3`).to.equal('Line #1\nLine #2\nLine #3');
