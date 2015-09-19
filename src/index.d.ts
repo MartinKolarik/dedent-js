@@ -1,3 +1,8 @@
 declare module 'dedent-js' {
-	export default function (templateStrings: TemplateStringsArray|string, ...values: any[]): string;
+	interface Dedent {
+		(templateStrings: TemplateStringsArray|string, ...values: any[]): string;
+	}
+
+	var dedent: Dedent;
+	export = dedent;
 }
