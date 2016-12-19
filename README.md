@@ -2,6 +2,8 @@
 
 Removes indentation from multiline strings. Works with both tabs and spaces.
 
+Using Babel? [Here's a Babel plugin](https://github.com/MartinKolarik/babel-plugin-dedent) that removes indentation during compile time.
+
 ## Installation
 
 ```
@@ -67,4 +69,4 @@ expect(
 ```
 
 ## License
-Copyright (c) 2015 Martin Kolárik. Released under the MIT license.
+Copyright (c) 2015 - 2016 Martin Kolárik. Released under the MIT license.
