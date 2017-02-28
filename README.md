@@ -69,4 +69,4 @@ expect(
 ```
 
 ## License
-Copyright (c) 2015 - 2016 Martin Kolárik. Released under the MIT license.
+Copyright (c) 2015 - 2017 Martin Kolárik. Released under the MIT license.
