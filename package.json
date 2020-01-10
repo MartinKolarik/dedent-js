@@ -18,14 +18,14 @@
 	"author": {
 		"name": "Martin Kolárik",
 		"email": "martin@kolarik.sk",
-		"url": "https://kolarik.me"
+		"url": "https://kolarik.sk"
 	},
 	"license": "MIT",
 	"devDependencies": {
-		"chai": "~3.2",
-		"babel": "~5.8",
-		"mocha": "~2.3",
-		"typescript": "~1.6"
+		"chai": "^3.5.0",
+		"babel": "^5.8.38",
+		"mocha": "^2.5.3",
+		"typescript": "^1.8.10"
 	},
 	"scripts": {
 		"build": "tsc",
